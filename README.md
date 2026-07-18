@@ -1,53 +1,41 @@
-# Bootcamp-Alkademi
-# QA Career Journey 🚀
+# Module 01 - QA Mindset
 
-Welcome to my QA Career Journey repository.
+## Overview
 
-This repository documents my learning process as a career shifter pursuing a career as a Software Quality Assurance Engineer.
+Quality Assurance is more than finding bugs.
 
-The goal of this repository is not only to study QA concepts but also to build a professional portfolio through assignments, practical exercises, reflections, and technical documentation.
-
----
-
-## Learning Roadmap
-
-### Sprint 1 - QA Foundation
-
-- [x] Module 01 - QA Mindset
-- [ ] Module 02 - Software Development Life Cycle (SDLC)
-- [ ] Module 03 - Software Testing Life Cycle (STLC)
-- [ ] Module 04 - Testing Levels
-- [ ] Module 05 - Testing Types
-- [ ] Module 06 - Defect Life Cycle
-- [ ] Module 07 - Verification vs Validation
+A QA Engineer is responsible for ensuring software quality throughout the software development process by identifying risks, preventing defects, and collaborating with the development team.
 
 ---
 
-## Repository Structure
+## Learning Objectives
 
-```text
-qa-career-journey/
+After completing this module, I should be able to:
 
-modules/
-portfolio/
-resources/
-```
-
----
-
-## Learning Goals
-
-- Understand QA Fundamentals
-- Build QA Mindset
-- Learn Manual Testing
-- Learn API Testing
-- Learn SQL
-- Learn Automation Testing
-- Build QA Portfolio
-- Prepare for QA Interviews
+- Understand the role of a QA Engineer
+- Develop a QA mindset
+- Think critically about software quality
+- Identify possible risks from a user's perspective
 
 ---
 
-## Author
+## Topics
 
-Career Shifter → Future QA Engineer
+- What is QA?
+- QA Mindset
+- Critical Thinking
+- User Perspective
+- Collaboration
+
+---
+
+## Status
+
+✅ Completed
+
+---
+
+## Files
+
+- assignment.md
+- reflection.md 
