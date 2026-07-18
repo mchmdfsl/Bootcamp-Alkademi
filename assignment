@@ -1,0 +1,85 @@
+# Assignment - Module 02 (SDLC)
+
+## Part A - Understanding
+
+### Q1. What is the main purpose of SDLC?
+
+The main purpose of SDLC is to ensure that a web application or software is developed according to business requirements and expected standards. SDLC also helps minimize development risks, reduce costs caused by mistakes, and provide a structured development process.
+
+---
+
+### Q2. Why is the Requirement phase the most important?
+
+The Requirement phase is the foundation of the entire software development process. Without clear requirements, developers may build the wrong features, resulting in software that does not meet business expectations or user needs.
+
+---
+
+### Q3. What can happen if requirements are unclear?
+
+Possible risks include:
+
+1. No clear project objectives.
+2. Financial loss due to rework.
+3. Confusion during development.
+4. Poor software quality.
+5. Unorganized development workflow.
+6. Scope creep.
+7. Delayed project delivery.
+
+---
+
+### Q4. In which SDLC phase does QA have the biggest impact?
+
+In my opinion, QA has a significant impact during the Testing phase because this is where test execution, bug reporting, retesting, and regression testing are performed to ensure software quality before release.
+
+However, I also learned that many modern software companies apply **Shift Left Testing**, where QA becomes involved from the Requirement phase to identify risks early, review requirements, and prevent defects before development begins.
+
+---
+
+# Part B - Case Study
+
+Scenario:
+
+A startup company wants to build a Hotel Booking Application.
+
+---
+
+## Requirement
+
+QA studies business requirements, identifies unclear requirements, and starts preparing testing scenarios based on user needs.
+
+---
+
+## Planning
+
+QA estimates testing effort, identifies possible project risks, and discusses the testing strategy with the team.
+
+---
+
+## Design
+
+QA reviews application workflows, understands UI/UX designs, and provides suggestions if potential usability or functional issues are identified.
+
+---
+
+## Development
+
+QA prepares test cases, test data, and testing tools while discussing implementation details with developers.
+
+---
+
+## Testing
+
+QA executes test cases, reports bugs, performs retesting after bug fixes, and executes regression testing to ensure existing functionality still works correctly.
+
+---
+
+## Deployment
+
+QA performs Smoke Testing in the production environment to verify that the main features work correctly after deployment. QA also ensures the deployed application matches the approved requirements and validates any issues found after release.
+
+---
+
+## Maintenance
+
+QA verifies bug fixes, validates hotfixes, performs regression testing when necessary, and ensures the application maintains its quality throughout its lifecycle.
