@@ -1,0 +1,52 @@
+# Assignment - QA Mindset
+
+## Q1
+
+### What is a QA Engineer?
+
+QA Engineer is a professional responsible for ensuring that software meets business requirements and user expectations by identifying defects, preventing quality issues, and collaborating with the development team throughout the software development lifecycle.
+
+---
+
+## Q2
+
+### Why is QA not just a bug finder?
+
+Because QA is responsible for ensuring software quality.
+
+Finding bugs is only one part of the job. QA also reviews requirements, identifies risks, improves testing processes, and works closely with developers and stakeholders to deliver a better product.
+
+---
+
+## Q3
+
+### Think Like a QA
+
+Example scenarios:
+
+- What if the server reaches its maximum capacity?
+- What if users register multiple times using the same email?
+- What if the login service is unavailable?
+- What if the database connection is lost?
+- What if users repeatedly click the Login button?
+
+---
+
+## Q4
+
+### Application
+
+Application: Gojek
+
+Possible test ideas:
+
+- What if payment fails?
+- What if the driver never arrives?
+- What if multiple users place orders simultaneously?
+- What if the selected restaurant is closed?
+- What if the delivery address cannot be found?
+- What if registration data is not saved?
+- What if OTP is not received?
+- What if internet connection is lost during checkout?
+- What if the user cancels an order after payment?
+- What if the price displayed is different from the restaurant price?
