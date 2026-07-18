@@ -1,53 +1,55 @@
-# Bootcamp-Alkademi
-# QA Career Journey 🚀
+# Module 02 - Software Development Life Cycle (SDLC)
 
-Welcome to my QA Career Journey repository.
+## 📖 Overview
 
-This repository documents my learning process as a career shifter pursuing a career as a Software Quality Assurance Engineer.
+Software Development Life Cycle (SDLC) is a structured process used to develop software from planning to maintenance. It helps development teams build software systematically while ensuring quality, reducing risks, and meeting business requirements.
 
-The goal of this repository is not only to study QA concepts but also to build a professional portfolio through assignments, practical exercises, reflections, and technical documentation.
-
----
-
-## Learning Roadmap
-
-### Sprint 1 - QA Foundation
-
-- [x] Module 01 - QA Mindset
-- [ ] Module 02 - Software Development Life Cycle (SDLC)
-- [ ] Module 03 - Software Testing Life Cycle (STLC)
-- [ ] Module 04 - Testing Levels
-- [ ] Module 05 - Testing Types
-- [ ] Module 06 - Defect Life Cycle
-- [ ] Module 07 - Verification vs Validation
+As a QA Engineer, understanding SDLC is essential because QA contributes throughout the entire development process, not only during the testing phase.
 
 ---
 
-## Repository Structure
+## 🎯 Learning Objectives
 
-```text
-qa-career-journey/
+After completing this module, I should be able to:
 
-modules/
-portfolio/
-resources/
-```
-
----
-
-## Learning Goals
-
-- Understand QA Fundamentals
-- Build QA Mindset
-- Learn Manual Testing
-- Learn API Testing
-- Learn SQL
-- Learn Automation Testing
-- Build QA Portfolio
-- Prepare for QA Interviews
+- Explain the purpose of SDLC.
+- Describe each phase of SDLC.
+- Understand the role of QA in every SDLC phase.
+- Explain why SDLC is important in software development.
+- Apply SDLC concepts to real-world projects.
 
 ---
 
-## Author
+## 📚 Topics
 
-Career Shifter → Future QA Engineer
+- Introduction to SDLC
+- SDLC Phases
+- Purpose of SDLC
+- QA Responsibilities in SDLC
+- Real-world Example
+
+---
+
+## 📂 Files
+
+- assignment.md
+- reflection.md
+- interview.md
+
+---
+
+## ✅ Status
+
+Completed
+
+---
+
+## ⭐ Mentor Review
+
+Score: **9.4 / 10**
+
+Feedback:
+
+- Good understanding of SDLC concepts.
+- Strong business thinking.
+- Need to improve understanding of QA responsibilities after deployment.
